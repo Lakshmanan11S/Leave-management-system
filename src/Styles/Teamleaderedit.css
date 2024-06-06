@@ -1,0 +1,21 @@
+.modal-head{
+    background-color: cornflowerblue;
+}
+.main-modal{
+    border-radius: 10px;
+    margin-top: 75px;
+    color: black;
+}
+.modal-form{
+    padding: 5px;
+    margin-top: 10px;
+}
+.modal-form label{
+    font-weight: bold;
+    padding: 5px;
+    
+}
+
+.modal-button{
+    margin-top: 10px;
+}

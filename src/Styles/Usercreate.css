@@ -1,0 +1,17 @@
+.off-top-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.off-top-section button{
+    
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+  
+}
+
+.canvas-content{
+    width: 75%;
+   padding: 10px;
+}

@@ -1,0 +1,48 @@
+.manageuser-top-section{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px;
+}
+.manageuser-top-section h3{
+    color:#52aad3;
+    margin-left: 10px;
+}
+.manageuser-top-section button{
+  
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.manageuser-bottom-section {
+    margin-top: 15px;
+    height: 60vh;
+    padding: 20px;
+}
+
+.main-table{
+    border: 1px solid;
+    width: 98%;
+   
+    
+    
+}
+.main-table thead th{
+    border: 1px solid;
+    padding: 2px;
+    background-color:chocolate;
+    text-align: center;
+   
+}
+.main-table tbody td{
+    border: 1px solid;
+    padding: 1px;
+    text-align: center;
+    
+}
+
+

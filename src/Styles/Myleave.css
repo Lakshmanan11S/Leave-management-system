@@ -1,0 +1,38 @@
+.myleave-top-section{
+    padding: 20px;
+    border-radius: 8px;
+}
+.myleave-top-section h3{
+    color: #52aad3;
+    margin: 0;
+    text-align: start;
+}
+.myleave-bottom-section{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row; */
+    height: 70vh;
+}
+.myleave-main-table {
+    border:1px solid;
+    width: 98%;
+}
+.myleave-main-table thead th{
+    border: 1px solid;
+    padding: 5px;
+    background-color:chocolate;
+    text-align: center;
+
+}
+
+.myleave-main-table tbody td{
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+}

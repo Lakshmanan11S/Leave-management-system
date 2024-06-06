@@ -1,0 +1,96 @@
+.image{
+    size: 100%;
+    height: 98vh;
+    width:100%
+}
+
+.content{
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+
+}
+.subbtn{
+    border-radius: 10px;
+    color: white;
+    background-color:chocolate
+   
+} */
+
+/* .login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+/* Login.css */
+
+/* body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* .logmain-cont {
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+  }
+  
+  .logmain-cont h3 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .logmain-cont label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .logmain-cont input {
+ 
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .logmain-cont input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+  }
+  
+  .logmain-cont .btn {
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+  }
+  
+  .logmain-cont .btn:hover {
+    background: #0056b3;
+  }
+   */

@@ -1,0 +1,38 @@
+.manageleave-top-section h3{
+    height: 50px;
+    color:#52aad3;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+}
+.manageleave-bottom-section{
+    margin-top: 15px;
+    height: 75vh;
+    /* align-items: center;
+    justify-content: center;
+    display: flex; */
+    padding: 20px;
+}
+.manage-main-table{
+    border: 1px solid;
+    width: 98%;
+}
+.manage-main-table thead th{
+    border: 1px solid;
+    padding: 2px;
+    background-color:chocolate;
+    text-align: center;
+
+}
+.manage-main-table tbody td{
+    border: 1px solid;
+    padding:1px;
+    text-align: center;
+}
+.icons{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

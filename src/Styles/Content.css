@@ -1,0 +1,56 @@
+/* .person img {
+  border-radius: 50px;
+}
+.btn button{
+   background-color:dodgerblue;
+   color: white;
+   cursor: pointer;
+   border-radius: 5px;
+} */
+
+.first-section{
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  
+}
+.first-heading{
+  color:#52aad3;
+  margin-left: 10px;
+}
+
+.second-section{
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+  
+  
+  
+}
+.first-button{
+  background-color:cornflowerblue;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  border: none;
+}
+
+.second-button{
+  background-color:forestgreen;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  border: none;
+}
+
+.third-button{
+  background-color:red;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  border: none;
+}
+.bottom-section{
+  margin-top: 20px;
+}

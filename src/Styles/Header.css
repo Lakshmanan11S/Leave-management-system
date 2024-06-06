@@ -1,0 +1,17 @@
+.heading{
+   background-color:whitesmoke;
+   height: 60px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   color: #52aad3;
+ 
+   
+}
+
+.heading span i{
+   font-size: 25px;
+   margin-right: 20px;
+   cursor: pointer;
+   color:darkcyan
+}
